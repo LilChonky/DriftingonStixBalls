@@ -15,3 +15,13 @@ Prework, Custom Audio Files in WoW:
   Import the WA text thats in this repo in just the same way you have for every other WA 
 
   Restart your game. Unless something has changed recently World of Warcraft does not read new files added to it while the game is open so you'll have to fully restart. Though you could /reload and see *shrug*
+
+  **IF YOU HAVE NEVER USED GITHUB BEFORE DONT BE SCARED READ HERE FOR HELP**
+
+  Honestly its hella chill just kinda confusing how to download stuff but I got you, there are a couple options (that also work for every github repo btw)
+
+  Easy mode is to just click the aiauw-tit7w.ogg file and in the top right there will be 3 horizontal dots, hit that, download file, put it in your CustomAudio folder.
+
+  On the previous page where it shows all 3 of the files (README.md, WA Import Text, aiauw-tit7w.ogg) there is a green button kinda top right that says **<>CODE**
+  Hit the lil drop down arrow right next to that
+  Select zip, unpack that shit where ever, grab the audio file and put in your CustomAudio Folder
