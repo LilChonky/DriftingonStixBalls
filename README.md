@@ -22,6 +22,8 @@ Prework, Custom Audio Files in WoW:
 
   Easy mode is to just click the aiauw-tit7w.ogg file and in the top right there will be 3 horizontal dots, hit that, download file, put it in your CustomAudio folder.
 
+  Orrrr if you want all the files for some reason:
+
   On the previous page where it shows all 3 of the files (README.md, WA Import Text, aiauw-tit7w.ogg) there is a green button kinda top right that says **<>CODE**
   Hit the lil drop down arrow right next to that
   Select zip, unpack that shit where ever, grab the audio file and put in your CustomAudio Folder
